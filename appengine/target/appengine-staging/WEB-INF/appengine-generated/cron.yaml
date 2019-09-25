@@ -1,0 +1,5 @@
+cron:
+- description: 'daily check'
+  url: /votingReminder
+  schedule: every 2 minutes
+  timezone: UTC
